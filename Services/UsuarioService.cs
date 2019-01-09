@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using APIProdutos.Data;
 using APIProdutos.Models;
 
-namespace APIProdutos.Business
+namespace APIProdutos.Services
 {
     public class UsuarioService
     {
