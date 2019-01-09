@@ -16,5 +16,11 @@ namespace APIProdutos.Models
             get => _nome;
             set => _nome = value?.Trim();
         }
+
+        private double _preco;
+        public double Preco
+        {
+            get; set;
+        }
     }
 }
